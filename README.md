@@ -9,13 +9,13 @@ In This Workbook we performed Exploratory Data Analysis on Zomato Dataset source
 
 ## In this workbook we bring some useful insights from data and tried to answer some questions:
 
-Q.1 Finding Missisng Values
+### Q.1 Finding Missisng Values
 
-Q.1 Merging Datasets
+### Q.2 Merging Datasets
 Observation : 
 Zomato Maximum records or transaction are from India and After that USA and then United Kingdom.
 
-Q.2 Getting Rating Obsrvations
+### Q.3 Getting Rating Obsrvations
 Observation:
 When Rating is between 4.5 to 4.9 --> Excellent
 When Rating is between 4.0 to 4.4 --> Very Good
@@ -25,18 +25,18 @@ When Rating is between 2.5 to 2.9 --> Poor
 When Rating is between 2.0 to 2.4 --> Very Poor
 When Rating is 0.0 then this means User not rated
 
-Q.3 Find Countries name that has given 0 ratings
+### Q.4 Find Countries name that has given 0 ratings
 Observation : 
 Maximum number of 0 ratings are from Indian customers
 
-Q.5 Which country do have online delivery options
+#### Q.5 Which country do have online delivery options
 Observations:
 Online Deliveries are available in India and UAE
 
-Q.6 Create a Pie chart for top 5 cities distribution
+#### Q.6 Create a Pie chart for top 5 cities distribution
 Observations:
-New Delhi
-Gurugram
-Noida
-Ghaiabad
-Faridabad
+New Delhi,
+Gurugram,
+Noida,
+Ghaiabad,
+Faridabad.
